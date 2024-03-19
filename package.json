@@ -1,6 +1,6 @@
 {
-  "name": "eslint-plugin-eslint-nestjs-opensearch-structured-logger",
-  "version": "0.0.0",
+  "name": "nestjs-opensearch-structured-logger-eslint-plugin",
+  "version": "0.0.1",
   "description": "Validation for nestjs-opensearch-structured-logger from @raphaabreu.",
   "keywords": [
     "eslint",
